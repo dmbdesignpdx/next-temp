@@ -1,0 +1,13 @@
+import type { %%#Props as Props } from "@/types/%%#.d";
+import * as style from "@/styles/%%#.styles";
+
+
+export function %%#({}: Props) {
+  const className = style.root();
+
+  return (
+    <#%% className={className}>
+      %%# Component
+    </#%%>
+  );
+}

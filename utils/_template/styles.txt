@@ -1,0 +1,10 @@
+import { cva } from "~/styled-system/css";
+
+
+export const root = cva({
+  base: {
+    contain: "content",
+  },
+  variants: {},
+  defaultVariants: {},
+});
