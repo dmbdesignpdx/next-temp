@@ -20,28 +20,28 @@
     "comp": "bun -b run ./utils/createComponent.ts"
   },
   "dependencies": {
-    "next": "^15.5.2",
-    "react": "^19.1.1",
-    "react-dom": "^19.1.1"
+    "next": "^15.5.4",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3.3.1",
-    "@eslint/js": "^9.35.0",
-    "@happy-dom/global-registrator": "^18.0.1",
-    "@pandacss/dev": "^1.2.0",
-    "@stylistic/eslint-plugin": "^5.3.1",
+    "@eslint/js": "^9.36.0",
+    "@happy-dom/global-registrator": "^19.0.2",
+    "@pandacss/dev": "^1.4.1",
+    "@stylistic/eslint-plugin": "^5.4.0",
     "@testing-library/dom": "^10.4.1",
-    "@testing-library/jest-dom": "^6.8.0",
+    "@testing-library/jest-dom": "^6.9.1",
     "@testing-library/react": "^16.3.0",
     "@testing-library/user-event": "^14.6.1",
-    "@types/bun": "^1.2.21",
-    "@types/node": "^24.3.1",
-    "@types/react": "^19.1.12",
-    "@types/react-dom": "^19.1.9",
+    "@types/bun": "^1.2.23",
+    "@types/node": "^24.6.2",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
     "chalk": "^5.6.2",
-    "eslint": "^9.35.0",
-    "eslint-config-next": "^15.5.2",
-    "typescript": "^5.9.2",
-    "typescript-eslint": "^8.43.0"
+    "eslint": "^9.36.0",
+    "eslint-config-next": "^15.5.4",
+    "typescript": "^5.9.3",
+    "typescript-eslint": "^8.45.0"
   }
 }
